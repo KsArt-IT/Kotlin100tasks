@@ -1,0 +1,2 @@
+rootProject.name = "Console Calculator"
+include ':app'
